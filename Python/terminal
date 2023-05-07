@@ -1,0 +1,24 @@
+ls : lists the files present on pi
+pinout : Shows the pin diagram of the raspberry pi
+sudo halt : shutdown pi
+pwd (present working directory)current location in the filesystem
+cd Desktop : (change directory) to desktop
+cd .. : go up one time
+ls .. : see up one time
+exit : To exit terminal
+
+Terminal window is case sensitive 
+
+cd python_games : Open folder python games .
+ls / : read what is in the top folder.
+cd / : Going to the top folder .
+ls /home/pi/python_games : lists files in python_games from top
+ls python_games : List python games from current folder.
+cd /home/pi : change directory from the root to pi
+cd pi/Desktop : Go to desktop from home 
+ls ../python_games : list from up one python_games 
+
+ls .. Look in the folder up one
+ls ../.. go up + up look in the folder 
+cd ../.. go up + up 
+cd ../../home/pi
